@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Example.Rest.Entities\Example.Rest.Entities.csproj" />
+    <ProjectReference Include="..\Example.Rest.Context\Example.Rest.Context.csproj" />
+  </ItemGroup>
+
+</Project>

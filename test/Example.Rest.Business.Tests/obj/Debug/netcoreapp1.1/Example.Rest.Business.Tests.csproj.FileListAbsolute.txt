@@ -1,0 +1,17 @@
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.deps.json
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.runtimeconfig.json
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.runtimeconfig.dev.json
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.pdb
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\obj\Debug\netcoreapp1.1\Example.Rest.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\obj\Debug\netcoreapp1.1\Example.Rest.Business.Tests.AssemblyInfo.cs
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\obj\Debug\netcoreapp1.1\Example.Rest.Business.Tests.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business.Tests\obj\Debug\netcoreapp1.1\Example.Rest.Business.Tests.pdb
+C:\Users\anaval\Desktop\Example.Rest.Service\test\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.deps.json
+C:\Users\anaval\Desktop\Example.Rest.Service\test\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.runtimeconfig.json
+C:\Users\anaval\Desktop\Example.Rest.Service\test\Example.Rest.Business.Tests\bin\Debug\netcoreapp1.1\Example.Rest.Business.Tests.runtimeconfig.dev.json
+C:\Users\anaval\Desktop\Example.Rest.Service\test\Example.Rest.Business.Tests\obj\Debug\netcoreapp1.1\Example.Rest.Business.Tests.csprojResolveAssemblyReference.cache
+C:\Users\anaval\Desktop\Example.Rest.Service\test\Example.Rest.Business.Tests\obj\Debug\netcoreapp1.1\Example.Rest.Business.Tests.AssemblyInfo.cs

@@ -1,0 +1,6 @@
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Entities\bin\Debug\netcoreapp1.1\Example.Rest.Entities.deps.json
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Entities\obj\Debug\netcoreapp1.1\Example.Rest.Entities.csprojResolveAssemblyReference.cache
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Entities\obj\Debug\netcoreapp1.1\Example.Rest.Entities.AssemblyInfo.cs
+C:\Users\ibalasch\Desktop\Example.Rest.Service\Example.Rest.Entities\bin\Debug\netcoreapp1.1\Example.Rest.Entities.deps.json
+C:\Users\ibalasch\Desktop\Example.Rest.Service\Example.Rest.Entities\obj\Debug\netcoreapp1.1\Example.Rest.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ibalasch\Desktop\Example.Rest.Service\Example.Rest.Entities\obj\Debug\netcoreapp1.1\Example.Rest.Entities.AssemblyInfo.cs

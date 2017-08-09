@@ -1,0 +1,13 @@
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Business.deps.json
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Business.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Business.pdb
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Context.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Entities.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Context.pdb
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Entities.pdb
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\obj\Debug\netcoreapp1.1\Example.Rest.Business.csprojResolveAssemblyReference.cache
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\obj\Debug\netcoreapp1.1\Example.Rest.Business.AssemblyInfo.cs
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\obj\Debug\netcoreapp1.1\Example.Rest.Business.dll
+C:\Users\anaval\Desktop\Example.Rest.Service\Example.Rest.Business\obj\Debug\netcoreapp1.1\Example.Rest.Business.pdb
+C:\Users\anaval\Desktop\Example.Rest.Service\src\Example.Rest.Business\bin\Debug\netcoreapp1.1\Example.Rest.Business.deps.json
+C:\Users\anaval\Desktop\Example.Rest.Service\src\Example.Rest.Business\obj\Debug\netcoreapp1.1\Example.Rest.Business.AssemblyInfo.cs

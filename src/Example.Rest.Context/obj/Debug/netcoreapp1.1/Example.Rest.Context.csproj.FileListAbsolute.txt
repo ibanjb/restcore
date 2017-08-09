@@ -1,0 +1,2 @@
+C:\Users\anaval\Desktop\Example.Rest.Service\src\Example.Rest.Context\bin\Debug\netcoreapp1.1\Example.Rest.Context.deps.json
+C:\Users\anaval\Desktop\Example.Rest.Service\src\Example.Rest.Context\obj\Debug\netcoreapp1.1\Example.Rest.Context.AssemblyInfo.cs
